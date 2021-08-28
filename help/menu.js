@@ -70,9 +70,9 @@ else if (!isGroup) return`▢ ${tanggal()}
 └──────────────
   ≡  *FG98 👨🏻‍💻*
 ┌──────────────
-├╼ *Ig* : instagram.com/fg98._
-├╼ *Grupo* : t.me/AndroidWorldfg
-├╼ *Grupo Wha* : bit.ly/DyLuxfg 
+├╼ creado por cobra
+├╼ https://wa.me/+526971147890
+├
 └──────────────
 ┌───⊷ *BOT* ⊶
 ├╼ Nombre: *${Lxa.user.name}*
